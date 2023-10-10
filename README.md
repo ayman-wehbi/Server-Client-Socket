@@ -21,8 +21,9 @@ I ran into so much difficulty making this program accept multiple clients. At fi
 <img src="https://i.imgur.com/waR8K8t.png" alt="Alt Text" width="1200"/>
 
 <img src="https://i.imgur.com/yG1YUJO.png" alt="Alt Text" width="1200"/>
-<img src="https://i.imgur.com/yG1YUJO.png" alt="Alt Text" width="1200"/>
-<img src="https://i.imgur.com/yG1YUJO.png" alt="Alt Text" width="1200"/>
+
+<img src="https://i.imgur.com/24WlUZR.png" alt="Alt Text" width="1200"/>
+
 
 
 
