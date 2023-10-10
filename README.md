@@ -19,7 +19,9 @@ The client starts similarly to the clienthandler, but this method takes the user
 I ran into so much difficulty making this program accept multiple clients. At first, it would accept a client, but wouldn’t accept a second one until the first one exits. After hours of working, it turns out it was a simple misplacement of the readLine() method. I also had issues as to how to make the server kick a user out after the user types “bye”, but I worked around that. The getmessage method was the hardest to implement because of it having a runnable interface, and I could not figure out the All Users feature.
 
 <img src="https://i.imgur.com/waR8K8t.png" alt="Alt Text" width="1200"/>
-<img src="https://imgur.com/yG1YUJO" alt="Alt Text" width="1200"/>
+<img src="https://i.imgur.com/yG1YUJO.png" alt="Alt Text" width="1200"/>
+<img src="https://i.imgur.com/yG1YUJO.png" alt="Alt Text" width="1200"/>
+<img src="https://i.imgur.com/yG1YUJO.png" alt="Alt Text" width="1200"/>
 
 
 
