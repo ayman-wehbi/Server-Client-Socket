@@ -1,9 +1,6 @@
 # Server-Client-Socket
 
-
-#### kmyhgdkjytrtytr
-
-#### fehiwfwe
+htrwhtrwhrtweh
 
 
 
