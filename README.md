@@ -14,7 +14,7 @@ This is the extra file that we have to write due to this being a multithreaded p
 
 The client starts similarly to the clienthandler, but this method takes the username and the socket only, without adding anything to an ArrayList. We have the send message method that runs an if-else scenario within a while loop. These scenarios are in case a user says “bye” or “All Users”. Typing “bye” kicks the user out of the chat using a break. Then we have a method that gets the message, using an override due to the runnable interface. This method uses a .start() method so I did not implement the whole file to be a runnable interface, but only this method. Finally, we have a main method that asks for a nickname with a scanner, connects to the socket to confirm the localhost number, runs a new client, and connects that client to the getmessage and sendmessage methods. I also added a line to make it look a little nicer along with the date of each message. Nothing fancy.
 
-####Total Work Time: about 5-7 hours.
+#### Total Work Time: about 5-7 hours.
 
 I ran into so much difficulty making this program accept multiple clients. At first, it would accept a client, but wouldn’t accept a second one until the first one exits. After hours of working, it turns out it was a simple misplacement of the readLine() method. I also had issues as to how to make the server kick a user out after the user types “bye”, but I worked around that. The getmessage method was the hardest to implement because of it having a runnable interface, and I could not figure out the All Users feature.
 
